@@ -1,0 +1,1 @@
+import{_ as t}from"./nuxt-link.cd98aaa6.js";import{f as o,o as a,c as n,b as _,w as s,d as c,a as r}from"./entry.e2cb0696.js";const p=r("h1",null,"About page",-1),f=o({__name:"about",setup(m){return(u,d)=>{const e=t;return a(),n("div",null,[p,_(e,{to:"/"},{default:s(()=>[c("Home page")]),_:1})])}}});export{f as default};
