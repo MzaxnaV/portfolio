@@ -14,7 +14,7 @@ useSeoMeta({
   <NuxtPage />
 </template>
 
-<style>
+<!-- <style>
 .page-enter-active,
 .page-leave-active {
   transition: all 0.4s;
@@ -25,4 +25,4 @@ useSeoMeta({
   opacity: 0;
   filter: blur(1rem);
 }
-</style>
+</style> -->
